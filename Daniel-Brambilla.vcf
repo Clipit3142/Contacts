@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//macOS 26.1//EN
+N:Brambilla;Daniel;;;
+FN:Daniel Brambilla
+EMAIL;type=INTERNET;type=HOME;type=pref:daniel.brambilla@icloud.com
+item1.EMAIL;type=INTERNET:daniel_brambilla@beausoleil.ch
+item1.X-ABLabel:_$!<School>!$_
+TEL;type=HOME;type=VOICE;type=pref:+41 783533214
+item2.TEL:+86 193 7071 2067
+item2.X-ABLabel:Chinese
+item3.ADR;type=HOME;type=pref:;;Route du Village 1\nBeau Soleil\, Deux Chalets;Villars-Sur-Ollon;;1884;Switzerland
+item3.X-ABADR:ch
+BDAY;X-APPLE-OMIT-YEAR=1604:1604-09-10
+END:VCARD
